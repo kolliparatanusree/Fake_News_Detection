@@ -28,7 +28,7 @@ This project is designed to detect and classify fake news articles using machine
 1. Clone this repository to your local machine:
 
 bash
-git clone [https://github.com/2005Yaswi/fake-news-detection.git](https://github.com/kolliparatanusree/Fake_News_Detection.git)
+git clone [https://github.com/kolliparatanusree/Fake_News_Detection.git]
 
 
 2. Navigate to the project directory:
