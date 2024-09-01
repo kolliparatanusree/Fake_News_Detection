@@ -12,8 +12,6 @@ This project is designed to detect and classify fake news articles using machine
 - [Model](#model)
 - [Results](#results)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -28,7 +26,7 @@ This project is designed to detect and classify fake news articles using machine
 1. Clone this repository to your local machine:
 
 bash
-git clone [https://github.com/kolliparatanusree/Fake_News_Detection.git]
+git clone https://github.com/kolliparatanusree/Fake_News_Detection.git
 
 
 2. Navigate to the project directory:
@@ -62,8 +60,3 @@ We evaluated each classifier's performance using metrics such as accuracy and ac
 
 ## Deployment
 Developed a Flask web application integrated with machine learning models (Logistic Regression, Random Forest, Decision Trees) to automate fake news detection. Achieved high accuracy through comprehensive feature extraction and NLP-based preprocessing techniques.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
